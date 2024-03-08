@@ -1,0 +1,14 @@
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\bin\Debug\net8.0\validaCnpj.exe
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\bin\Debug\net8.0\validaCnpj.deps.json
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\bin\Debug\net8.0\validaCnpj.runtimeconfig.json
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\bin\Debug\net8.0\validaCnpj.dll
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\bin\Debug\net8.0\validaCnpj.pdb
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.AssemblyInfoInputs.cache
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.AssemblyInfo.cs
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.csproj.CoreCompileInputs.cache
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.dll
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\refint\validaCnpj.dll
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.pdb
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\validaCnpj.genruntimeconfig.cache
+C:\Users\2023102020039\Documents\validaCnpj\validaCnpj\obj\Debug\net8.0\ref\validaCnpj.dll
